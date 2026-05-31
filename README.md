@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Crypto ETL Data Pipeline Banner" width="100%">
+<img src="./assets/social_preview.png" alt="Crypto ETL Data Pipeline Banner" width="100%">
 
 # Crypto ETL Data Pipeline 🚀
 
