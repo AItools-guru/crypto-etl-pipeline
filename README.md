@@ -10,6 +10,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge&logo=python&logoColor=white)](https://www.sqlalchemy.org/)
+[![Python CI Pipeline](https://github.com/AItools-guru/crypto-etl-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/AItools-guru/crypto-etl-pipeline/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -133,3 +134,16 @@ The pipeline generates a `market_data` table with the following schema:
 <div align="center">
 <i>Built with ❤️ for Data Engineering Portfolios.</i>
 </div>
+
+---
+
+<h2 align="center">🧑‍💻 Author</h2>
+
+<p align="center">
+  <strong>Saurabh Shidhore</strong><br>
+  <i>Project Manager | Business Analyst | AI Practitioner</i>
+</p>
+
+<p align="center">
+  👉 <a href="https://www.linkedin.com/in/saurabhshidhore/">Connect on LinkedIn</a> | 💻 <a href="https://github.com/AItools-guru">Follow on GitHub</a>
+</p>
